@@ -1,0 +1,1 @@
+COVID-19 is an infectious disease caused by a newly discovered coronavirus. How this virus spreads primarily through liquid droplets from infected person. Currently, there's no vaccines to treat COVID-19. But many researchers in many countries are evaluating potential treatments.
