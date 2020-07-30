@@ -1,5 +1,21 @@
 ## Analisis Unsur Kebahasaan Surat Lamaran Pekerjaan
 
+Surat lamaran kerja adalah surat dari seseorang yang memerlukan pekerjaan kepada orang atau pejabat yang dapat memberikan pekerjaan atau jabatan. Permohonan pada surat lamaran mengandung tesis dan harus didukung oleh argumentasi yang kuat agar pemberi pekerjaan yakin untuk menerima pelamar tersebut.
+
+## Unsur Kebahasaan
+
+Unsur kebahasaan dalam surat lamaran kerja yaitu:
+
+- Menggunakan bahasa yang baik dan benar.
+- Menggunakan bentuk surat yang standar.
+- Menggunakan kata-kata yang sopan.
+- Tulisan bersih, mudah dibaca, dan sesuai dengan kaidah ejaan.
+- Menggunakan kata pengantar yang jelas, singkat, padat, informatif, dan tepat sasaran.
+- Melengkapi bagian-bagian surat (hal, tempat/tanggal, alamat, salam pembuka, isi surat, salam penutup, tanda tangan, dan nama terang)
+- Menulis perolehan sumber informasi, apakah berasal dari media massa, informasi dari seseorang, pengumuman, permintaan suatu instansi, atau inisiatif sendiri.
+
+## Bagian-bagian surat
+
 ### A.  Tanggal surat
     
 Penulisannya dimulai dengan nama kota yang diawali huruf kapital, lalu diikuti tanda koma (,). Tanggal ditulis dengan angka. Bulan ditulis dengan huruf kapital (tidak disingkat). Tahun ditulis lengkap dengan angka.
