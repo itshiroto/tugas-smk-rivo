@@ -4,7 +4,7 @@ fontsize: 12pt
 ---
 
 | No  | Unsur-unsur kebahasaan                                                                | Surat Lamaran <br> Pekerjaan 1 | Surat Lamaran <br> Pekerjaan 2 |
-| --- | ------------------------------------------------------------------------------------- | :----------------------------: | :----------------------------: |
+| :-: | ------------------------------------------------------------------------------------- | :----------------------------: | :----------------------------: |
 | 1   | Menggunakan bahasa yang baik dan benar                                                |              **Ada**               |              **Ada**               |
 | 2   | Menggunakan bentuk surat yang standar.                                                |              **Ada**               |              **Ada**               |
 | 3   | Menggunakan kata-kata yang sopan.                                                     |              **Ada**               |              **Ada**               |
