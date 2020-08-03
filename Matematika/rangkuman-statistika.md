@@ -98,7 +98,7 @@ Kita langsung lihat contohnya:
 
 **1. Interval Kelas**
 
-    Tiap-tiap kelompok disebut interval kelas atau sering disebut interval atau kelas saja. Dalam contoh sebelumnya memuat enam interval ini.
+Tiap-tiap kelompok disebut interval kelas atau sering disebut interval atau kelas saja. Dalam contoh sebelumnya memuat enam interval ini.
     
     > 65 – 67 → Interval kelas pertama
     
@@ -114,42 +114,42 @@ Kita langsung lihat contohnya:
 
 **2. Batas Kelas**
 
-    Berdasarkan tabel distribusi frekuensi di atas, angka 65, 68, 71, 74, 77, dan 80 merupakan batas bawah dari tiap-tiap kelas, sedangkan angka 67, 70, 73, 76, 79, dan 82 merupakan batas atas dari tiap-tiap kelas.
+Berdasarkan tabel distribusi frekuensi di atas, angka 65, 68, 71, 74, 77, dan 80 merupakan batas bawah dari tiap-tiap kelas, sedangkan angka 67, 70, 73, 76, 79, dan 82 merupakan batas atas dari tiap-tiap kelas.
 
 **3. Tepi Kelas (Batas Nyata Kelas)**
 
-    Untuk mencari tepi kelas dapat dipakai rumus berikut ini.
+Untuk mencari tepi kelas dapat dipakai rumus berikut ini.
     
     > Tepi bawah = batas bawah – 0,5
     > Tepi atas = batas atas + 0,5
     
-    Dari tabel di atas maka tepi bawah kelas pertama 64,5 dan tepi atasnya 67,5, tepi bawah kelas kedua 67,5 dan tepi atasnya 70,5 dan seterusnya.
+Dari tabel di atas maka tepi bawah kelas pertama 64,5 dan tepi atasnya 67,5, tepi bawah kelas kedua 67,5 dan tepi atasnya 70,5 dan seterusnya.
 
 **4. Lebar kelas**
 
-    Untuk mencari lebar kelas dapat dipakai rumus:
+Untuk mencari lebar kelas dapat dipakai rumus:
 
     > Lebar kelas = tepi atas – tepi bawah
 
-    Jadi, lebar kelas dari tabel diatas adalah 67,5 – 64,5 = 3.
+Jadi, lebar kelas dari tabel di atas adalah 67,5 – 64,5 = 3.
 
 **5. Titik Tengah**
 
-    Untuk mencari titik tengah dapat dipakai rumus:
+Untuk mencari titik tengah dapat dipakai rumus:
 
     > Titik tengah = 1/2 (batas atas + batas bawah)
 
-    Dari tabel di atas: titik tengah kelas pertama = 1/2(67 + 65) = 66 titik tengah kedua = 1/2(70 + 68) = 69 dan seterusnya.
+Dari tabel di atas: titik tengah kelas pertama = 1/2(67 + 65) = 66 titik tengah kedua = 1/2(70 + 68) = 69 dan seterusnya.
 
 **6. Jangkauan Data**
     
-    Jangkauan merupakan selisih antara nilai tertinggi dari sebuah kumpulan data dengan nilai terendah dari sebuah kumpulan data. 
+Jangkauan merupakan selisih antara nilai tertinggi dari sebuah kumpulan data dengan nilai terendah dari sebuah kumpulan data. 
 
     > J = Xmax – Xmin
 
 **7. Banyak Kelas**
    
-    Banyak kelas menggunakan rumus Sturgess yang telah saya sebutkan diatas tadi.
+Banyak kelas menggunakan rumus Sturgess yang telah saya sebutkan di atas tadi.
 
 ## H. Macam-macam diagram dan grafik
 
