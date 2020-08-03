@@ -1,8 +1,8 @@
 # Statistika
 
 - [Statistika](#statistika)
-  - [a. Statistik dan statistika](#a-statistik-dan-statistika)
-  - [b. Macam-macam data dan contohnya](#b-macam-macam-data-dan-contohnya)
+  - [A. Statistik dan statistika](#a-statistik-dan-statistika)
+  - [B. Macam-macam data dan contohnya](#b-macam-macam-data-dan-contohnya)
   - [C. Cara mengumpulkan data](#c-cara-mengumpulkan-data)
   - [D. Kriteria data yang baik](#d-kriteria-data-yang-baik)
   - [E. Penerapan aturan Sturgess](#e-penerapan-aturan-sturgess)
@@ -11,13 +11,13 @@
   - [I. Membaca diagram / grafik](#i-membaca-diagram--grafik)
   - [J. Frekuensi Kumulatif](#j-frekuensi-kumulatif)
 
-## a. Statistik dan statistika
+## A. Statistik dan statistika
 
 **Statistik:** Kumpulan informasi atau keterangan yang berupa angka-angka yang disusun, ditabulasi, dan dikelompokkan sehingga dapat memberikan informasi yang berarti mengenai suatu masalah atau gejala.
 
 **Statistika:** Ilmu pengetahuan yang berhubungan dengan cara-cara pengumpulan data dan penyusunan data
 
-## b. Macam-macam data dan contohnya
+## B. Macam-macam data dan contohnya
 
 1. Data kuantitatif: Data yang dapat dinyatakan dengan bilangan.
    - Data Diskrit: Data yang diperoleh dari hasil operasi hitung.
@@ -35,7 +35,8 @@
 
 ## C. Cara mengumpulkan data
 
-Referensi 1:
+**Referensi 1:**
+
 Data yang baru dikumpulkan dan belum diolah disebut data mentah.
 Metode pengumpulan data ada 2 yaitu :
 Metode sampling, adalah pengumpulan data dengan meneliti sebagian anggota populasi.
@@ -47,8 +48,10 @@ Adapun cara untuk mengumpulkan data adalah :
 - Pengamatan (observasi)
 - Koleksi (dari data media cetak / elektronik)
 
-Referensi 2:
-1. Penelitian langsung di lapangan atau laboratorium
+**Referensi 2:**
+
+1. **Penelitian langsung di lapangan atau laboratorium**
+   
    Penelitian di lapangan biasanya disebut dengan observasi atau pengamatan merupakan teknik pengumpulan data dengan cara pengamatan terhadap objek, baik secara langsung maupun tidak langsung,
 
    Pelaksanaan pengamatan dapat dilakukan dengan:
@@ -58,10 +61,12 @@ Referensi 2:
    
    - Pengamatan partisipasif, yaitu pengamatan yang dilakukan dengan cara ikut ambil bagian atau melibatkan diri dalam situasi yang dialami oleh responden. Cara ini banyak dilakukan terutama dalam penelitian psikologi, sosiologi maupun antropologi.
 
-2. Interview (wawancara)
+2. **Interview (wawancara)**
+   
    Teknik pengumpulan data yang dilakukan dengan cara mengadakan tanya jawab, baik secara langsung maupun tidak langsung dengan responden.
 
-3. Kuesioner (Angket)
+3. **Kuesioner (Angket)**
+   
     Angket dapat dipandang sebagai teknik pengumpulan data yang banyak kesamaannya dengan wawancara. Perbedaannya adalah wawancara dilakukan secara lisan, sedangkan angket dilakukan secara tertulis.
 
     Bentuk penyusunan angket ada dua macam, yaitu:
@@ -83,15 +88,15 @@ Rumus ini dipakai ketika membuat Tabel Distribusi Frekuensi Kelompok:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=K&space;=&space;1&space;&plus;&space;3.3\log&space;n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?K&space;=&space;1&space;&plus;&space;3.3\log&space;n" title="K = 1 + 3.3\log n" /></a>
 
-*K = banyak kelas*
-*n = banyak data*
+*K = banyak kelas*, *n = banyak data*
 
 ## F. dan G. Batas kelas, tepi kelas, titik tengah kelas, jangkauan data, banyak kelas dan interval kelas
 
-Kita langsung main contohnya:
+Kita langsung lihat contohnya:
+
 ![](https://4.bp.blogspot.com/_ijRvv-brogg/TUwc_wKuxcI/AAAAAAAAADo/nqk7cJuTt6U/s400/tabel%2Bdistribusi%2Bfrekuensi.JPG)
 
-1. Interval Kelas
+**1. Interval Kelas**
 
     Tiap-tiap kelompok disebut interval kelas atau sering disebut interval atau kelas saja. Dalam contoh sebelumnya memuat enam interval ini.
     
@@ -107,11 +112,12 @@ Kita langsung main contohnya:
 
     > 80 – 82 → Interval kelas keenam
 
-2. Batas Kelas
+**2. Batas Kelas**
 
     Berdasarkan tabel distribusi frekuensi di atas, angka 65, 68, 71, 74, 77, dan 80 merupakan batas bawah dari tiap-tiap kelas, sedangkan angka 67, 70, 73, 76, 79, dan 82 merupakan batas atas dari tiap-tiap kelas.
 
-3. Tepi Kelas (Batas Nyata Kelas)
+**3. Tepi Kelas (Batas Nyata Kelas)**
+
     Untuk mencari tepi kelas dapat dipakai rumus berikut ini.
     
     > Tepi bawah = batas bawah – 0,5
@@ -119,7 +125,7 @@ Kita langsung main contohnya:
     
     Dari tabel di atas maka tepi bawah kelas pertama 64,5 dan tepi atasnya 67,5, tepi bawah kelas kedua 67,5 dan tepi atasnya 70,5 dan seterusnya.
 
-4. Lebar kelas
+**4. Lebar kelas**
 
     Untuk mencari lebar kelas dapat dipakai rumus:
 
@@ -127,7 +133,7 @@ Kita langsung main contohnya:
 
     Jadi, lebar kelas dari tabel diatas adalah 67,5 – 64,5 = 3.
 
-5. Titik Tengah
+**5. Titik Tengah**
 
     Untuk mencari titik tengah dapat dipakai rumus:
 
@@ -135,13 +141,13 @@ Kita langsung main contohnya:
 
     Dari tabel di atas: titik tengah kelas pertama = 1/2(67 + 65) = 66 titik tengah kedua = 1/2(70 + 68) = 69 dan seterusnya.
 
-6. Jangkauan Data
+**6. Jangkauan Data**
     
     Jangkauan merupakan selisih antara nilai tertinggi dari sebuah kumpulan data dengan nilai terendah dari sebuah kumpulan data. 
 
     > J = Xmax – Xmin
 
-7. Banyak Kelas
+**7. Banyak Kelas**
    
     Banyak kelas menggunakan rumus Sturgess yang telah saya sebutkan diatas tadi.
 
