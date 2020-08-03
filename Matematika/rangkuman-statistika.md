@@ -1,5 +1,16 @@
 # Statistika
 
+- [Statistika](#statistika)
+  - [a. Statistik dan statistika](#a-statistik-dan-statistika)
+  - [b. Macam-macam data dan contohnya](#b-macam-macam-data-dan-contohnya)
+  - [C. Cara mengumpulkan data](#c-cara-mengumpulkan-data)
+  - [D. Kriteria data yang baik](#d-kriteria-data-yang-baik)
+  - [E. Penerapan aturan Sturgess](#e-penerapan-aturan-sturgess)
+  - [F. dan G. Batas kelas, tepi kelas, titik tengah kelas, jangkauan data, banyak kelas dan interval kelas](#f-dan-g-batas-kelas-tepi-kelas-titik-tengah-kelas-jangkauan-data-banyak-kelas-dan-interval-kelas)
+  - [H. Macam-macam diagram dan grafik](#h-macam-macam-diagram-dan-grafik)
+  - [I. Membaca diagram / grafik](#i-membaca-diagram--grafik)
+  - [J. Frekuensi Kumulatif](#j-frekuensi-kumulatif)
+
 ## a. Statistik dan statistika
 
 **Statistik:** Kumpulan informasi atau keterangan yang berupa angka-angka yang disusun, ditabulasi, dan dikelompokkan sehingga dapat memberikan informasi yang berarti mengenai suatu masalah atau gejala.
