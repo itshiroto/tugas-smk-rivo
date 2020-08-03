@@ -151,7 +151,7 @@ Dari tabel di atas: titik tengah kelas pertama = 1/2(67 + 65) = 66 titik tengah 
     
 Jangkauan merupakan selisih antara nilai tertinggi dari sebuah kumpulan data dengan nilai terendah dari sebuah kumpulan data. 
 
-    > J = Xmax – Xmin
+<a href="https://www.codecogs.com/eqnedit.php?latex=J&space;=&space;Xmax&space;-&space;Xmin" target="_blank"><img src="https://latex.codecogs.com/gif.latex?J&space;=&space;Xmax&space;-&space;Xmin" title="J = Xmax - Xmin" /></a>
 
 **7. Banyak Kelas**
    
