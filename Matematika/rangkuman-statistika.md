@@ -155,7 +155,7 @@ Jangkauan merupakan selisih antara nilai tertinggi dari sebuah kumpulan data den
 
 **7. Banyak Kelas**
    
-Banyak kelas menggunakan rumus Sturgess yang telah saya sebutkan di atas tadi.
+Banyak kelas menggunakan rumus Sturgess yang [telah saya sebutkan di atas tadi.](#e-penerapan-aturan-sturgess)
 
 ## H. Macam-macam diagram dan grafik
 
