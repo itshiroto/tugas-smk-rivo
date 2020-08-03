@@ -112,6 +112,12 @@ Tiap-tiap kelompok disebut interval kelas atau sering disebut interval atau kela
 
     > 80 – 82 → Interval kelas keenam
 
+Dapat juga dihitung menggunakan rumus
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=Interval&space;=&space;\frac{R}{K}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Interval&space;=&space;\frac{R}{K}" title="Interval = \frac{R}{K}" /></a>
+
+*R = Range, K = Banyak Kelas*
+
 **2. Batas Kelas**
 
 Berdasarkan tabel distribusi frekuensi di atas, angka 65, 68, 71, 74, 77, dan 80 merupakan batas bawah dari tiap-tiap kelas, sedangkan angka 67, 70, 73, 76, 79, dan 82 merupakan batas atas dari tiap-tiap kelas.
