@@ -7,8 +7,6 @@ Tahap-tahap teori desain secara runtut, yaitu sebagai berikut:
 3. Tahap Programming Phase
 4. Tahap Testing Phase
 
----
-
 ## Tahap Design Treatment
 
 **Design Treatment** bisa diterjemahkan sebagai sebuah istilah desain yang berhubungan dengan analisis jenis produk yang akan dibuat dan faktor-faktor yang dibutuhkan untuk membuatnya.
@@ -27,8 +25,6 @@ Sebuah media warna dan elemen pada tahap design treatment harus melalui sebuah p
 
 5. **Waktu yang digunakan.** Salah satu pendukung dalam mewujudkan media warna dan elemen beserta aplikasi yang digunakan untuk mewujudkannya berhubungan dengan waktu, baik waktu tayang maupun waktu dalam pembuatannya. Termasuk di dalamnya semua hal yang terkait dengan proses penggalian ide yang akan diwujudkan, perlu didokumentasikan dalam bentuk catatan atau sebuah sketch gambar untuk mempermudah gambaran atau team dalam mewujudkannya. Hal tersebut akan memakan waktu berkepanjangan jika tidak memanajemen waktu dengan baik.
 
----
-
 ## Tahap Visual Development
 
 Pada umumnya tahap ini lebih mudah dilakukan oleh seorang desainer grafis, karena membutuhkan skill grafis dan kepekaan estetik. pembuatan aset-aset visual dilakukan pada tahap Visual Development Phase. Asset visual meliputi grafik yang digunakan sebagai objek dalam media, efek visual, tipografi (penggunaan huruf) dan grafik untuk keperluan interface (antarmuka). Dalam hal ini, sebuah media pembelajaran warna dan elemen bisa diterjemahkan sebagai produk dari multidisiplin ilmu, jika pembuat media hanya menguasai pembuatan dan pengolahan materi maka dibutuhkan tenaga grafis untuk mengerjakan tahap ini.
@@ -43,14 +39,10 @@ Beberapa aplikasi perangkat lunak yang dapat dimanfaatkan untuk membangun grafis
 
 4. **Bersumber secara online.** Penggunaan gambar yang bersumber secara online, menjadi penyebab utama gambar/objek tersebut akan ditampilkan secara berulang-ulang di media lain. Dampaknya adalah berkurangnya kesan eksklusif pada media yang bersangkutan.
 
----
-
 ## Tahap Programming Phase
 Pekerjaan pemrograman membutuhkan ketelitian dan pemahaman atas logika, hal ini juga diperlukan dalam sebuah aplikasi media warna dan elemen. Guna dalam memproses pemrograman dapat menggunakan bantuan flowchart (diagram alur). Flowchart identik dengan suatu bagan menggunakan simbol-simbol tertentu dalam menggambarkan urutan proses secara mendetail, serta hubungan antara suatu proses (instruksi) dengan proses lainnya dalam suatu program.
 
 Pada umumnya kegiatan pemrograman dapat dilakukan dengan mudah oleh programmer, tetapi untuk pemrograman multimedia dapat dilakukan oleh nonprogrammer. Hal ini disebabkan penulisan kode (koding) yang cukup singkat, padat, dan mudah dipahami meskipun belum pernah belajar bahasa pemrograman.
-
----
 
 ## Tahap Testing Phase
 
