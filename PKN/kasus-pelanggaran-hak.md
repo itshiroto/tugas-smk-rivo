@@ -1,4 +1,10 @@
-# Kasus Pelanggaran Hak dan Pengingkaran Kewajiban Warga Negara
+---
+title: Kasus Pelanggaran Hak dan Pengingkaran Kewajiban Warga Negara
+author: Rivo Juicer Wowor
+
+mainfont: plex-otf
+fontsize: 12pt
+---
 
 ## Penyebab terjadinya Pelanggaran Hak dan Pengingkaran Kewajiban Warga Negara
 
