@@ -7,6 +7,7 @@
     - [Antarmuka Layar](#antarmuka-layar)
     - [Antarmuka Pengguna Bergrafik (GUI)](#antarmuka-pengguna-bergrafik-gui)
     - [Antarmuka Generasi Masa Depan](#antarmuka-generasi-masa-depan)
+  - [Tujuan dan Manfaat Antarmuka (Interface)](#tujuan-dan-manfaat-antarmuka-interface)
 ## Definisi User Interface
 Menurut terminologinya, **interface diterjemahkan sebagai salah satu media yang digunakan komputer untuk berkomunikasi dengan manusia yang bertindak sebagai user.** Dalam hal ini, pengertian interface di dunia komputer dikenal dengan istilah GUI (Graphical User Interface). Oleh sebab itu, desain antarmuka yang lebih dikenal dengan istilah design interface berkaitan erat dengan prosedur desain pada aplikasi perangkat lunak, komputer, peralatan dan mesin, perangkat komunikasi mobile, serta situs web yang berfokus pada interaksi penggunanya. Design interface sangat penting karena berpengaruh pada user dalam berkomunikasi menggunakan komputer. Jika suatu program sulit untuk digunakan, maka kemungkinan besar akan membuat user melakukan kesalahan pada saat menggunakan program tersebut.
 
@@ -49,3 +50,14 @@ Antarmuka jenis ini termasuk jenis interface yang menggunakan bentuk-bentuk visu
 ### Antarmuka Generasi Masa Depan
 
 Generasi antarmuka jenis ini lebih berorientasi kepada objek dibandingkan segi pengolahan data dan fungsi dengan bentuk dialog tidak lagi berbentuk arahan. Generasi tersebut lebih menitikberatkan pada penambahan unsur-unsur animasi objek dan audio (suara dan bunyi), termasuk di dalamnya unsur 3D pada antarmuka modern dalam pembentukan di seputar dunia maya. Interaksi yang digunakan mayoritas berbentuk bahasa dan membenarkan penggunaan input yang tidak berformat. Di samping itu, antarmuka jenis ini juga memperbolehkan komputer membuat analisis aktivitas user yang bersangkutan. Misalnya pada film *Iron Man* menggunakan sistem *Embodied Interaction* sebagai sebuah interaksi menggunakan gerakan tubuh dalam memberikan input ke komputer seperti gerakan tangan atau yang lain tanpa menggunakan mouse atau keyboard.
+
+## Tujuan dan Manfaat Antarmuka (Interface)
+Secara mendasar, terdapat dua kategori dalam user interface, yaitu GUI (Graphical User Interface) dalam menggunakan unsur–unsur multimedia seperti gambar, suara, dan video untuk berinteraksi dengan pengguna serta Text-Based yang menggunakan rumus (syntax) yang sudah ditentukan dalam memberikan perintah. Dalam hal ini, design interface ini sangat penting karena berpengaruh pada user dalam penggunaannya atau berkomunikasi dengan komputer. Misalnya, jika suatu program sulit untuk digunakan, akan mempertinggi kemungkinan user melakukan suatu kesalahan saat menggunakan program tersebut. Sedangkan tujuan dari penggunaan design interface adalah membuat interaksi user dengan cara sederhana dan seefisien mungkin, di mana user berinteraksi dengan komputer menggunakan tampilan antarmuka (interface) yang ada pada layar komputer.
+
+Beberapa tujuan antarmuka (interface) sebagai berikut:
+
+Membuat desain interface menjadi efisien.
+Menyesuaikan desain interface dengan tugas.
+Memberikan reaksi atau respons yang tepat kepada user.
+Memperbaiki produktivitas dari pengetahuan karyawan.
+Memunculkan pertanyaan-pertanyaan yang dapat dimanfaatkan.
