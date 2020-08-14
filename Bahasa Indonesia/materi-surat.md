@@ -31,23 +31,23 @@
 Surat adalah salah satu sarana komunikasi tertulis untuk menyampaikan informasi atau pernyataan dari satu pihak ke pihak yang lain, baik perseorangan, instansi maupun organisasi.
 
 ## Jenis-Jenis Surat
-- Surat Pribadi atau Keluarga
+- **Surat Pribadi atau Keluarga**
   
   Surat yang ditulis untuk urusan pribadi
 
-- Surat Dinas
+- **Surat Dinas**
   
   Surat resmi yang ditulis/dikirim untuk kepentingan dinas dan kepentingan administrasi pemerintah
 
-- Surat Sosial
+- **Surat Sosial**
   
   Surat yang dipakai oleh organisasi kemasyarakatan, baik untuk kepentingan organisasi maupun kepentingan sosial
 
-- Surat Niaga
+- **Surat Niaga**
 
   Surat yang dipakai oleh perusahaan niaga untuk urusan perdagangan
 
-- Surat Setengah Resmi
+- **Surat Setengah Resmi**
 
 ## Struktur Surat (Menurut Finosa)
 
@@ -63,7 +63,8 @@ Identitas organisasi/lembaga perusahaan/kantor, berisi:
 ### Tanggal Surat
 Menunjukkan tanggal surat tersebut dibuat. Cara penulisan tanggal selalu diikuti bulan dan tahun. Tidak perlu disebutkan nama kota sebelum tanggal surat apabila sudah ada kepala suratnya. 
 
-> Contoh:   24 Oktober 2018
+> **Contoh**<br>
+> 24 Oktober 2018
 
 ### Nomor Surat
 
@@ -86,7 +87,7 @@ Contoh :
 
 	1. 	Nomor     	: 88/EB/VIII/2018
 		Lampiran 	: - 
-		Hal	 	    : Undangan
+		Hal         : Undangan
 
 	2. Lampiran		: 3 lembar
 	   Lampiran		: 3 berkas
@@ -96,8 +97,8 @@ Hal surat disebut  juga perihal surat atau pokok  surat.
 
 Contoh :
 
-	Hal		: Lamaran Pekerjaan
-	Perihal	: Permohonan Izin
+	Hal	        : Lamaran Pekerjaan
+	Perihal	    : Permohonan Izin
 
 ### Alamat Tujuan
 Alamat tujuan ada dua macam
@@ -119,7 +120,7 @@ Contoh *(surat pribadi)*    :
 
 	    Yth. Bapak Ahmad Faizin
 	    Krapyak RT 01/RW 54 Gang Ilmu No. 13
-	    <!-- Wedhomartani, Ngempak, Sleman 55584 -->
+	    Wedhomartani, Ngempak, Sleman 55584
 
 
 ### Salam Pembuka
