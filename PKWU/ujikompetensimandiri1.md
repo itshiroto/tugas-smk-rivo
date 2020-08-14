@@ -31,7 +31,7 @@
 
 - Fotografi
   
-  Sebuah industri yang mendorong penggunaan kreativitas individu dalam memproduksi citra dari suatu objek foto dengan menggunakan perangkat fotografi, termasuk di dalamnya media perekam cahaya, media penyimpan berkas, serta media yang menampilkan informasi untuk menciptakan kesejahteraan dan juga kesempatan kerja
+  Sebuah industri yang mendorong penggunaan kreativitas individu dalam memproduksi citra dari suatu objek foto dengan menggunakan perangkat fotografi.
 
 - Desain Produk
   
