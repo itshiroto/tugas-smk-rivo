@@ -92,14 +92,18 @@ Tahap ini merupakan proses memindahkan hasil rekaman dari kamera ke perangkat ed
 
 ## Offline Editing
 
-Tahap *offline editing* merupakan tahap di mana pencatat
-script/scriptwriter mencatat kembali semua hasil shooting dan adegan serta menuliskan adegan tersebut ke dalam *time code* yang ada di dalam aplikasi.
+Tahap *offline editing* merupakan tahap di mana pencatat script/scriptwriter mencatat kembali semua hasil shooting dan adegan serta menuliskan adegan tersebut ke dalam *time code* yang ada di dalam aplikasi.
 
 ## Online Editing
 
-Setelah tahap pertama dilakukan dan dirasa kurang maksimal atau sesuai. Maka dapat dilakukan ***Online Editing***. Berdasarkan script editing yang sudah dibuat pada tahapan *offline editing*, editor selanjutnya dapat melakukan pengeditan yang lebih rapi lagi.
+Setelah tahap pertama dilakukan dan dirasa kurang maksimal atau sesuai. 
+Maka dapat dilakukan ***Online Editing***. Berdasarkan script editing 
+yang sudah dibuat pada tahapan *offline editing*, editor selanjutnya 
+dapat melakukan pengeditan yang lebih rapi lagi.
 
-Editor dapat melihat adegan per adegan dan shoot per shoot untuk menyatukan cerita agar berkesinambungan serta memperindah hasil pengeditan video/*post-production*.
+Editor dapat melihat adegan per adegan dan shoot per shoot untuk 
+menyatukan cerita agar berkesinambungan serta memperindah hasil 
+pengeditan video/*post-production*.
 
 ## Pemotongan
 
@@ -119,7 +123,7 @@ Jenis-jenis transisi adalah:
 
 ## Mixing
 
-Proses *mixing* merupakan proses menggabungkan atau menyinkronisasikan antara video dan audio. Dalam tahap ini, proses mixing mengutamakan sound design dari video yang dikerjakan.
+Proses mixing merupakan proses menggabungkan atau menyinkronisasikan antara video dan audio. Dalam tahap ini, proses mixing mengutamakan sound design dari video yang dikerjakan.
 
 ## Rendering
 
@@ -133,6 +137,6 @@ Proses mastering ini merupakan tahap terakhir setelah preview. Dimana tahap ini 
 
 ## Distribusi dan Pengiklanan Film
 
-Proses distribusi video merupakan proses penayangan film yang telah dibuat. Caranya bisa dilakukan melalui cara online seperti meng-*upload*nya ke Youtube, atau cara offline seperti  premiering pada salah satu bioskop.
+Proses distribusi video merupakan proses penayangan film yang telah dibuat. Caranya bisa dilakukan melalui cara online seperti meng-uploadnya ke Youtube, atau cara offline seperti premiering pada salah satu bioskop.
 
 Lalu ada proses pengiklanan film, dimana proses ini bertujuan untuk mempromosikan karya film yang telah dibuat. Sama seperti distribusi, proses ini bisa dilakukan secara Online seperti mempromosikannya melalui sosial media, atau offline seperti mengadakan suatu kegiatan promosi seperti konferensi pers yang berisi tentang perilisan film.
