@@ -1,0 +1,16 @@
+# Sejarah dibalik era kompetitif Counter-Strike: Global Offensive
+
+![Counter-Strike: Global Offensive](https://games.mxdwn.com/wp-content/uploads/2020/02/csgo-1.jpg)
+*Counter-Strike: Global Offensive* adalah sebuah permainan video untuk Windows, Mac, dan Linux yang dirilis pada tahun 2012. Permainan ini merupakan salah satu dari seri *Counter-Strike* yang telah ada sejak tahun 1999. *Counter-Strike* juga merupakan salah satu cabang olahraga *eSports* atau olahraga elektronik. Banyak turnamen yang diselenggarakan untuk cabang olahraga ini. Contohnya seperti *ESL One Cologne, ESL Pro League, BLAST Premier, Dreamhacks Open,* dan juga *FACEIT Pro League*.
+
+*Counter-Strike* memiliki sejarah kompetitif selama 20 tahun yang dimulai pada versi awal *Counter-Strike*. Salah satu turnamen *Major* (seperti Piala Presiden dalam sepak bola) pertama yang diselenggarakan yaitu *Cyberathlete Professional League Winter Championship* pada tahun 2001 dan dimenangkan oleh tim *Ninjas in Pyjamas* dari Swedia. Dari saat itu, perkembangan olahraga elektronik *Counter-Strike* mulai berkembang pesat. Seperti munculnya Liga *World Cyber Games* dari Korea, liga *Cyberathlete Professional League* dari tahun 2001 hingga 2006, hingga *ESL Pro League* dari tahun 2015 hingga Sekarang
+
+![Salah satu turnamen terbesar di sejarah Counter-Strike, ESL One Cologne](https://miro.medium.com/max/4096/1*qkFJj0JlKig9wgiNKYMJCg.jpeg)
+
+Valve, perusahaan yang membuat permainan *Counter-Strike* kesulitan dalam mengembangkan versi pertama *Counter-Strike* dikarenakan tingkat *skill* yang cukup tinggi untuk pemain-pemain baru. Oleh karena itu pada tahun 2004, Valve merilis *Counter-Strike: Source*. Tapi hal ini justru membuat komunitas dari *Counter-Strike* mengkritik perbuatan Valve tersebut, dikarenakan Valve terlalu memudahkan game tersebut sehingga rasa kompetitifnya telah hilang dibandingkan versi pertama *Counter-Strike*. Dan dari hal tersebut, komunitas *Counter-Strike* terpecah menjadi dua. 
+
+Setelah beberapa tahun, akhirnya pada tahun 2012 Valve merilis *Counter-Strike: Global Offensive*. Awalnya perilisan permainan ini justru mendapat banyak kritikan dari komunitas *Counter-Strike*. Tapi setelah beberapa lama dan juga dedikasi dari Valve dalam mengembangkan permainan ini, komunitas yang awalnya terpecah menjadi dua, kembali bersatu karena game ini. Rilisnya game ini juga bertepatan dengan naiknya popularitas website *game streaming* seperti *UStream, Justin.tv* dan *Twitch* yang membuat sisi olahraga dari Counter-Strike ini naik daun.
+
+![FaZe Clan ketika memenangkan liga BLAST Pro Series 2020, Januari lalu](https://www.hotspawn.com/app/uploads/2020/02/20191102_Adela-Sznajder_BLASTProSeriesCPH_04183-1024x683.jpg)
+
+Hingga saat ini, *competitive scene* dari *Counter-Strike: Global Offensive* masih sangat populer dikalangan olahraga eSports. Meskipun dengan banyaknya kontroversi dan juga masalah yang terjadi belakangan ini, komunitas dari *Counter-Strike* tetap setia dalam mengikuti olahraga ini. Dan dengan jumlah pemain yang bertanding mencapai satu juta per harinya, Saya rasa *Counter-Strike* akan terus berkembang menjadi salah satu game terbesar dan tertua dalam sejarah *eSports*.
