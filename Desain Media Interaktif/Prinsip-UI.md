@@ -69,7 +69,7 @@ Secara mendasar, terdapat dua kategori dalam user interface, yaitu GUI (Graphica
 Beberapa tujuan antarmuka (interface) sebagai berikut:
 
 Membuat desain interface menjadi efisien.
-Menyesuaikan desain interface dengan tugas.
+Menyesuaikan desain interface dengan tugas.     
 Memberikan reaksi atau respons yang tepat kepada user.
 Memperbaiki produktivitas dari pengetahuan karyawan.
 Memunculkan pertanyaan-pertanyaan yang dapat dimanfaatkan.
@@ -102,3 +102,5 @@ Memberikan sistem sederhana dengan tujuan memudahkan si pemakai, karena pada das
 
 ### Prinsip Direct Manipulation
 Seorang user mengharapkan aplikasi yang dihadapinya memiliki tools yang dapat digunakan untuk melakukan perubahan pada antarmuka tersebut, sehingga prinsip direct manipulation sangat dibutuhkan. Dalam hal ini, aplikasi yang dihadapi seorang user bisa disesuaikan dengan kebutuhan, sifat, dan karakteristik dari user yang bersangkutan. Misalnya tampilan warna pada window yang semula berwarna biru bisa diubah melalui Desktop Properties atau tampilan Skin *Winamp* yang semula black metallic bisa diubah menjadi kuning cerah, dan lain-lain.
+
+### Prinsip Control
