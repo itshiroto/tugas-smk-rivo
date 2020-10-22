@@ -67,3 +67,32 @@ Unsur yang berada dalam sastra (tema, amanat/pesan, plot/alur, penokohan/perwata
 > "Aku" Tokoh tambahan
 
 - Sudut Pandang Campuran **"ku"** dan **"Dia"**
+
+
+# Resume Materi Novel
+
+> *Assigned on 22/10/2020 from https://www.youtube.com/watch?v=YQlap7puXzw*
+
+## Pengertian
+**Novel** = Karya prosa fiksi yang panjang, mengandung rangkaian cerita kehidupan seseorang dengan orang-orang di sekelilingnya dengan menonjolkan watak dan sifat setiap pelaku. Terdapat unsur-unsur pembangun [dari dalam atau unsur intrinsik novel](#dua-unsur-sastra).
+
+**Tokoh** = Para pelaku yang terdapat dalam cerita.
+
+**Alur/plot** = Rangkaian peristiwa yang disusun berdasarkan hubungan kausalitas. Dibagi menjadi tiga bagian, yaitu awal, tengah, dan akhir.
+
+**Judul** = mengacu pada tokoh, latar, tema, atau kombinasi dari unsur-unsur tersebut.
+
+**Sudut pandang/POV** = memasalahkan siapa yang bercerita, dibedakan menjadi sudut pandang orang pertama dan orang ketiga.
+
+**Tema** = pokok pikiran atau dasar sebuah cerita.
+
+## Kaidah alur/plot
+1. Plausibility *(kemasukakalan)*
+2. Surprise *(kejutan)*
+3. Suspense
+4. Unity *(Keutuhan)*
+
+## Macam latar/setting
+1. **Tempat**  : Berkaitan dengan masalah geografis.
+2. **Waktu**   : Berkaitan dengan masalah waktu, hari, jam, maupun historis.
+3. **Sosial**
