@@ -16,6 +16,9 @@ Penggunaan unsur media interaktif pada Adobe Flash CS6 adalah sebagai berikut.
   - [2.2. Import to Stage](#22-import-to-stage)
 - [3. Menambahkan Animasi](#3-menambahkan-animasi)
 - [4. Menambahkan Audio](#4-menambahkan-audio)
+- [5. Menambahkan Video](#5-menambahkan-video)
+  - [5.1 Menyiapkan File Video](#51-menyiapkan-file-video)
+  - [5.2 Mengimpor Video](#52-mengimpor-video)
 
 ## 1. Menggabungkan teks
 
@@ -164,3 +167,25 @@ function bunyi_bgmusik(e:MouseEvent):void){
 ```
 
 Hal utama yang perlu dipahami dalam penulisan coding adalah seorang desainer multimedia dapat menambahkan lebih dari 1 suara. Dalam hal ini, menggunakan konsep dasar setelah linkage ditambahkan dengan tujuan untuk melakukan akses simbol yang ada di library dengan membuat objek baru menggunakan kode: *new linkage()*. Guna menjalankan aplikasi dengan menekan tombol kombinasi Ctrl + Enter.
+
+
+## 5. Menambahkan Video
+
+Pada dasarnya, menambahkan video ke dalam aplikasi Flash sangat mudah dilakukan. Hal ini diawali dari keberadaan Flash Player 5 yang sudah mendukung bentuk impor video langsung dengan memasukkan video ke dalam aplikasi, ataupun membuka file video yang berada di luar aplikasi dengan metode streaming. Di masa sekarang, file video dapat dijumpai dengan berbagai format misalnya 3GP, AVI, FLV, MKV, MOV, MP4, WMV, dan sebagainya. Namun demikian, tidak semua format file video bisa dikenali Flash karena aplikasi tersebut hanya bisa membuka file-file jenis dan codec tertentu. Cara termudah untuk mendeteksi sebuah file video bisa dikenali oleh Flash dapat dilakukan dengan melakukan proses impor. Jika setelah di-publish ternyata video tersebut tidak muncul, dapat dinyatakan bahwa format video tidak sesuai dan harus disesuaikan dengan format yang dikenali oleh Flash yang bersangkutan.
+
+### 5.1 Menyiapkan File Video
+
+Syarat utama yang harus dipenuhi dalam menambahkan video adalah memiliki file video dengan format yang bisa dikenali oleh Flash Player, tetapi umumnya jenis file video yang bisa dibaca antara lain berformat AVI, FLV, MP4, dan MPG. Sebaiknya, file yang telah dipersiapkan berada dalam satu folder yang sama dengan aplikasi FLA dengan tujuan mempermudah dalam menuliskan path (lokasi file video). Faktor penting yang perlu dipahami adalah video yang diunduh dari Youtube atau situs yang sejenis, pada umumnya menggunakan format FLV, tetapi file tersebut tidak bisa di-import karena jenis format codec yang berbeda. Langkah satu-satunya adalah melakukan convert ulang file tersebut menggunakan software video editor seperti Adobe Premiere, Windows Movie Maker, Videopad, dan sejenisnya.
+
+### 5.2 Mengimpor Video
+
+Langkah-langkah dalam mengimpor video adalah sebagai berikut:
+
+ - Klik pada frame (tempat yang dituju untuk meletakkan video), selanjutnya klik pada menu Import Video.
+
+ - Beberapa saat kemudian muncul panel Select Video, lalu klilk “Browse”, dan pilih file video yang akan di-import. Setelah itu, diakhiri klik dengan pada tombol “Next”.
+
+ - Selanjutnya memilih jenis skin di bagian Skinning. Secara mendasar, skin sebagai bagian dari video playback component yang dapat digunakan dalam mengontrol video dan memiliki beberapa tombol di antaranya play, pause, stop, dan sound. Tombol-tombol tersebut berfungsi secara otomatis tanpa memerlukan kode program. Selanjutnya klik pada tombol Next hingga beberapa kali sampai bertemu dengan tombol finish.
+
+ - Setelah video muncul di stage beserta skin yang telah dipilih sebelumnya maka untuk melakukan uji coba dapat dilakukan dengan menjalankan movie menggunakan tombol kombinasi Ctrl + Enter. Hasilnya adalah jika video tidak muncul menjadi pertanda adanya kesalahan, terutama pada status salah format dan salah folder.  <br>
+ Jika proses di atas telah benar, maka video dapat langsung dimainkan di komputer. Namun demikian, terdapat beberapa opsi mengubah video yang dilakukan dengan cara membuka panel Properties yang ada di bagian component parameter yang dapat di atur sesuai dengan kebutuhan. Beberapa opsi pada panel dapat diubah sesuai keinginan user, misalnya mengubah opsi auto play, skin color, auto hide dan sebagainya.
