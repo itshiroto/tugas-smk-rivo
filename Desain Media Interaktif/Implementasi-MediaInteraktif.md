@@ -15,6 +15,7 @@ Penggunaan unsur media interaktif pada Adobe Flash CS6 adalah sebagai berikut.
   - [2.1. Import to Library](#21-import-to-library)
   - [2.2. Import to Stage](#22-import-to-stage)
 - [3. Menambahkan Animasi](#3-menambahkan-animasi)
+- [4. Menambahkan Audio](#4-menambahkan-audio)
 
 ## 1. Menggabungkan teks
 
@@ -103,3 +104,63 @@ Kepopuleran animasi Flash sudah tidak diragukan lagi, terutama bagi para pemula 
 5. Hal yang perlu diperhatikan adalah perempatan jarum frame (titik merah) harus berhenti tepat frame ketiga. Selanjutnya melakukan drag pada gambar ke-2 dari library ke stage dan begitu seterusnya hingga gambar yang dibutuhkan tertata dengan rapi. Dalam hal ini, seorang desainer multimedia harus menentukan selang satu frame kosong (misalnya dengan mengacu pad angka genap atau ganjil), yaitu pada frame ke-5, 7,9, 11, 13, dan 15
 
 6. Langkah selanjutnya adalah menyimpan dengan nama file jalan kaki.fla dan dapat menjalankan animasi tersebut dengan menekan tombol kombinasi Ctrl + Enter.
+
+## 4. Menambahkan Audio
+
+Suara menjadi salah satu elemen dari sebuah aplikasi multimedia interaktif yang cukup vital. Dalam hal ini, suara bisa berupa efek suara ketika tombol ditekan, background suara, suara dubbing dari sebuah karakter, suara-suara alam, ataupun jenis-jenis efek suara yang lain. Pada dasarnya, terdapat dua metode menambahkan suara ke aplikasi, yaitu memasukkan file suara langsung ke dalam aplikasi dan membuka file suara dari luar aplikasi (embedding). Secara umum, flash mendukung (support) beberapa format suara, tetapi yang paling sering digunakan berformat WAV dan MP3 dengan frekuensi suara di bawah 44.1 kHz.
+
+Langkah-langkah dalam menambahkan suara adalah sebagai berikut:
+
+1. Setelah mengaktifkan Adobe Flash, dilanjutkan dengan klik pada menu File ==> Import ==> Import to Library. Selanjutnya, memilih file suara yang akan dipakai. Setelah menekan tombol OK, maka file suara akan masuk ke dalam library.
+
+2. Pada langkah berikutnya, adalah membuat tombol “play” untuk memainkan suara dan tombol “mute” untuk menghentikan suara.
+
+3. Selanjutnya, memberikan instance name untuk tombol Play dengan nama bg_play dan tombol Mute dengan nama *bg_mute*. Namun demikian, pemberian nama instance harus melalui panel properties karena simbol suara tidak memiliki bentuk fisik. Oleh sebab itu, objek suara harus memiliki linkage agar bisa diakses menggunakan kode suara. Guna menambahkan linkage dengan cara sebagai berikut:
+
+    - Diawali dengan membuka panel panel Library melalui menu Window==>Library.
+
+    - Klik kanan simbol suara dan klik pada Properties.
+
+    - Klik tombol “Advanced”, kemudian klik opsi Export for Actionscript masukkan: bgdia1 pada kolom “Class”.
+
+    - Klik OK, sehingga akan muncul linkage bgdia1 pada Library.
+
+4. Pada tahap terakhir adalah berhubungan dengan coding (penulisan kode) pada sebuah layer kode. Berikutnya klik frame 1 layer kode, dan coding program. Sebagai berikut.
+
+```
+import flash.events.MouseEvent;
+
+ 
+
+var bgmusik:bgdia1 = new bgdia1();      // membuat objek suara dari linkage bgdia1
+
+bgmusik.play(0,999);                    // memainkan bgmusik dengan 999 perulangan
+
+bg_play.addEventListener(MouseEvent.CLICK, bunyi_bgmusik);
+
+bg_mute.addEventListener(MouseEvent.CLICK, bunyi_bgmusik);
+
+ 
+
+function bunyi_bgmusik(e:MouseEvent):void){
+
+  var nm_tombol:String = e.currentTarget.name;
+
+  if (nm_tombol == “bg_play”){
+
+    SoundMixer.stopAll();
+
+    Bgmusik.play(0,999);
+
+  }
+
+  if(nm_tombol == “bg_mute”){
+
+    SoundMixer.stopAll();//mematikan suara
+
+  }
+
+}
+```
+
+Hal utama yang perlu dipahami dalam penulisan coding adalah seorang desainer multimedia dapat menambahkan lebih dari 1 suara. Dalam hal ini, menggunakan konsep dasar setelah linkage ditambahkan dengan tujuan untuk melakukan akses simbol yang ada di library dengan membuat objek baru menggunakan kode: *new linkage()*. Guna menjalankan aplikasi dengan menekan tombol kombinasi Ctrl + Enter.
