@@ -118,15 +118,15 @@ Langkah-langkah dalam menambahkan suara adalah sebagai berikut:
 
 2. Pada langkah berikutnya, adalah membuat tombol “play” untuk memainkan suara dan tombol “mute” untuk menghentikan suara.
 
-3. Selanjutnya, memberikan instance name untuk tombol Play dengan nama bg_play dan tombol Mute dengan nama *bg_mute*. Namun demikian, pemberian nama instance harus melalui panel properties karena simbol suara tidak memiliki bentuk fisik. Oleh sebab itu, objek suara harus memiliki linkage agar bisa diakses menggunakan kode suara. Guna menambahkan linkage dengan cara sebagai berikut:
+3. Selanjutnya, memberikan instance name untuk tombol Play dengan nama `bg_play` dan tombol Mute dengan nama `bg_mute`. Namun demikian, pemberian nama instance harus melalui panel properties karena simbol suara tidak memiliki bentuk fisik. Oleh sebab itu, objek suara harus memiliki linkage agar bisa diakses menggunakan kode suara. Guna menambahkan linkage dengan cara sebagai berikut:
 
     - Diawali dengan membuka panel panel Library melalui menu Window==>Library.
 
     - Klik kanan simbol suara dan klik pada Properties.
 
-    - Klik tombol “Advanced”, kemudian klik opsi Export for Actionscript masukkan: bgdia1 pada kolom “Class”.
+    - Klik tombol “Advanced”, kemudian klik opsi Export for Actionscript masukkan: `bgdia1` pada kolom “Class”.
 
-    - Klik OK, sehingga akan muncul linkage bgdia1 pada Library.
+    - Klik OK, sehingga akan muncul linkage `bgdia1` pada Library.
 
 4. Pada tahap terakhir adalah berhubungan dengan coding (penulisan kode) pada sebuah layer kode. Berikutnya klik frame 1 layer kode, dan coding program. Sebagai berikut.
 
@@ -166,7 +166,7 @@ function bunyi_bgmusik(e:MouseEvent):void){
 }
 ```
 
-Hal utama yang perlu dipahami dalam penulisan coding adalah seorang desainer multimedia dapat menambahkan lebih dari 1 suara. Dalam hal ini, menggunakan konsep dasar setelah linkage ditambahkan dengan tujuan untuk melakukan akses simbol yang ada di library dengan membuat objek baru menggunakan kode: *new linkage()*. Guna menjalankan aplikasi dengan menekan tombol kombinasi Ctrl + Enter.
+Hal utama yang perlu dipahami dalam penulisan coding adalah seorang desainer multimedia dapat menambahkan lebih dari 1 suara. Dalam hal ini, menggunakan konsep dasar setelah linkage ditambahkan dengan tujuan untuk melakukan akses simbol yang ada di library dengan membuat objek baru menggunakan kode: `new linkage()`. Guna menjalankan aplikasi dengan menekan tombol kombinasi Ctrl + Enter.
 
 
 ## 5. Menambahkan Video
