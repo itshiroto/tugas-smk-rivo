@@ -1,4 +1,6 @@
 # Hak Kekayaan Intelektual (Intelectual Property Rights) <!-- omit in toc -->
+> Based on https://www.youtube.com/watch?v=qqyscJKioYU
+
 Hak Kekayaan Intelektual (HKI) adalah Hak Kekayaan dalam bentuk yang tidak berwujud / Intangible Asset. Karena bentuknya berupa ciptaan atau invesi dari hasil pemikirian seorang manusia yang masuk kedalam sastra dan ilmu pengetahuan, termasuk teknologi.
 
 Di dalam HKI, terdapat
@@ -11,7 +13,7 @@ Di dalam HKI, terdapat
 - [Rahasia Dagang](#rahasia-dagang)
 - [Perlindungan Varietas Tanaman](#perlindungan-varietas-tanaman)
 
-Dan semua hak ini tidak bisa dicampuradukkan karena hak-hak tersebut memiliki definisinya masing-masing.
+Dan semua hak ini tidak bisa dicampuradukkan karena hak-hak tersebut memiliki definisinya masing-masing. Tapi didalam suatu produk bisa memiliki beberapa hak sekaligus.
 
 ## Hak Cipta
 Hak Cipta (Copyright) secara singkat adalah Hak untuk mengcopy atau menduplikasi sebuah karya cipta. 
