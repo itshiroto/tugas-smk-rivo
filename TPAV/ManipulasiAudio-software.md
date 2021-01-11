@@ -4,6 +4,7 @@
 Audacity adalah aplikasi manipulasi audio gratis dan *open source* (satu-satunya di list ini) untuk sistem operasi Windows, Mac, dan Linux.
 
 Audacity memiliki beberapa fitur dasar untuk memanipulasi audio, seperti:
+
 - Audio Recording
 - Multitrack Recording and Editing
 - Scrubbing
@@ -18,6 +19,7 @@ Audacity unggul di harga dan fleksibilitasnya. Sebagai satu-satunya aplikasi yan
 Adobe Audition merupakan salah satu dari keluarga aplikasi Adobe Creative Cloud yang dimiliki oleh Adobe. Audition dapat dijalankan baik di Windows maupun Mac.
 
 Beberapa fitur unggulan Adobe Audition antara lain,
+
 - Analisis Frekuensi Audio secara langsung
 - Dynamic Link
 - Project Manager
@@ -29,6 +31,7 @@ Adobe Audition banyak dipakai oleh audio engineer di dunia karena Audition memil
 Ableton Live adalah aplikasi Digital Audio Workstation yang dapat dijalankan di Windows dan Mac. Aplikasi DAW seperti ini biasanya ditargetkan untuk kalangan produser musik untuk membuat musik, tapi banyak juga yang memakai DAW sebagai aplikasi recording dan manipulasi audio biasa.
 
 Fitur unggulan Ableton Live antara lain,
+
 - UI yang sederhana
 - Kemampuan untuk menggunakan Loop dan Sample
 - Banyaknya *built-in effects* yang disediakan
@@ -39,6 +42,7 @@ Ableton Live lebih ditargetkan kepada musisi dan produser hip-hop dan electronic
 Logic Pro adalah aplikasi DAW dari Apple yang hanya bisa digunakan di Mac saja. Aplikasi ini merupakan salah satu standar industri (selain Pro Tools) yang banyak dipakai di studio terkenal di seluruh dunia. 
 
 Beberapa fitur unggulan Logic Pro antara lain,
+
 - Performa yang lebih baik
 - Tampilan UI yang menyerupai peralatan Analog tapi tetap mempertahankan modernitas
 - Memiliki fitur audio recording lebih lengkap ketimbang yang lainnya
@@ -49,6 +53,7 @@ Karena dibuat dan didesain oleh Apple, maka tentu performa yang dihasilkan dari 
 FL Studio merupakan aplikasi DAW yang dikembangkan oleh Image-line dan dapat digunakan di Windows dan Mac. Aplikasi ini terkenal di kalangan produser Indonesia karena banyaknya tutorial di Youtube dan juga tampilan yang mudah digunakan.
 
 Fitur unggulan dari FL Studio antara lain,
+
 - UI yang sederhana dan modern
 - Tersedia banyak tutorial dan pelatihan di internet
 - Sequencer yang intuitif
