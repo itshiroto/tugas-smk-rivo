@@ -18,6 +18,8 @@
   - [Conditional switch](#conditional-switch)
   - [Array](#array)
 - [Pengolahan Multimedia Interaktif Menggunakan Kode Program](#pengolahan-multimedia-interaktif-menggunakan-kode-program)
+  - [Properti Movie Clip](#properti-movie-clip)
+  - [Menambah Objek dengan AddChild dan RemoveChild (AS3)](#menambah-objek-dengan-addchild-dan-removechild-as3)
   
 
 Guna membentuk sebuah interaktivitas dalam sebuah multimedia interaktif diperlukan berbagai tahap pemrograman. Pemrograman identik dengan suatu kegiatan menuliskan kumpulan urutan perintah ke komputer untuk mengerjakan sesuatu, di mana instruksi tersebut menggunakan bahasa yang dimengerti oleh komputer atau dikenal dengan Bahasa pemrograman. Dalam hal ini, programming termasuk jenis keahlian yang akhir-akhir ini banyak dipelajari orang, seiring berkembangnya teknologi dan meningkatnya permintaan masyarakat akan developer, belajar coding bisa menjadi aset berharga. Salah satunya adalah **ActionScript** sebagai Bahasa pemrograman yang dipakai oleh software Flash untuk mengendalikan object-object ataupun movie.
@@ -265,3 +267,86 @@ Keunggulan multimedia di dalam interaktivitas adalah media tersebut mampu memaks
 3. Interaktivitas yang diperoleh dalam sistem informasi tanpa adanya intervensi dari user untuk mengubah konten. 
 
 Oleh sebab itu, guna memahami proses pengembangan interaktifitas dalam media yang akan dibuat, perlu memahami terlebih dahulu dasar-dasar dalam memanipulasi objek.
+
+### Properti Movie Clip
+Movie clip sebagai salah satu bentuk objek sering diaplikasikan dalam multimedia interaktif, sehingga seorang programmer harus mampu memanipulasi Movie clip. Setiap objek dalam Adobe Flash memiliki parameter-parameter yang disebut sebagai properties, misalnya Movie clip tersebut memiliki posisi dengan bentuk kordinat x dan y (z jika menggunakan metode 3D), rotasi, timeline, skala, warna, dan sebagainya.
+
+Langkah-langkah dalam membuat tombol Movie clip menggunakan Adobe Flash CS6 adalah sebagai berikut.
+
+1. Mengaktifkan program Adobe Flash, dan selanjutnya klik pada ActionScript 3 (AS3). Setelah itu membuat sebuah lingkaran menggunakan Oval Tool (atau menekan tombol O) dengan warna kuning atau sesuai dengan kebutuhan.
+
+2. Selanjutnya melakukan Selection Tool (atau menekan tombol V), setelah itu melakukan seleksi lingkaran dengan cara klik satu kali.
+
+3. Berikutnya melakukan convert menjadi Movie Clip dengan cara menekan tombol F8 sehingga muncul kotak dialog Convert to Symbol dan diberi nama tmb_kuning dan pada Type pilih opsi Movie clip dan diakhiri dengan menekan tombol OK.
+
+4. Double klik pada “tmb_kuning” sehingga masuk ke Movie clip tmb_kuning. Pada tahap tersebut dapat membuat animasi sederhana berupa Motion Tween dan memberi sedikit efek menggunakan fitur Filter.
+
+5. Selanjutnya melakukan Convert to Movie clip pada lingkaran kuning yang berada dalam Movie clip tersebut dengan menekan tombol F8 dan memberi nama tmb_kuning2. Adapun pada Type opsi Movie clip.
+
+6. Berikutnya klik kanan pada frame 10 dan klik pada Insert Keyframe (atau menekan tombol F6). Kilik kanan kembali pada frame 20 dan klik pada Insert Keyframe. Setelah itu, klik kanan pada antara frame 1 sampai 10 dan klik pada Create Motion Tween. Ulangi langkah-langkah tersebut untuk frame 11 sampai 20.
+
+7. Klik pada lingkaran kuning yang ada di frame 10. Selanjutnya di panel Properties klik pada pilih Filter→Add Filter (simbol +)→klik Glow. Selanjutnya mengatur visual efek sesuai kebutuhan, misalnya menggunakan warna hijau, blur X : 55 dan blur Y : 55. Centang pada Inner Glow dengan tujuan efek Glow berada di dalam objek lingkaran.
+
+8. Setelah itu, klik kanan pada frame 1 dan pilih Actions (atau menekan tombol F9), lalu klik kode : stop(); dengan tujuan agar animasi Button yang dibuat dapat berhenti. Ulangi langkah yang sama untuk frame ke-10 dan frame ke-20. Setelah itu memberi nama : Home di dalam Movie clip tmb_kuning2.
+
+9. Selanjutnya masuk ke dalam Scene 1 dengan cara klik pada Scene 1. Klik tombol tersebut diikuti dengan menekan tombol F9 sehingga muncul kotak dialog ActionScript dan masukkan kode program sebagai berikut.
+```as3
+On (release, rollover) {
+    gotoAndPlay(2);
+}
+
+On (release, rollout) {
+    gotoAndPlay(11);
+}
+```
+10. Untuk menjalankan movie clip dilakukan dengan menekan tombol kombinasi Ctrl+ Enter. Diikuti dengan mengarahkan pointer pada tombol tersebut. Jika berubah menjadi glow hijau, berarti Movie clip yang dibuat sudah berhasil.
+
+### Menambah Objek dengan AddChild dan RemoveChild (AS3)
+Salah satu metode yang paling sering digunakan oleh programmer dalam membuat aplikasi adalah menambahkan objek ke layar dengan menggunakan kode dengan memanfaatkan fasilitas AddChild dan RemoveChild. Script AddChild dan RemoveChild digunakan untuk memasukkan dan menghapus objek pada sebuah stage. Script tersebut berguna bagi programmer yang menginginkan objek-objek di stage dapat dimasukkan dan dihapus. Prosedur pelaksanaannya diawali dengan membuat objek dan memberi linkage pada objek tersebut. Setelah itu baru memberikan script.
+
+1. Membuat sebuah dokumen Flash dengan ukuran 400 x 400 pixel dan sebuah lingkaran berukuran 100 x 100 pixel. Seleksi lingkaran tersebut dan tekan F8. Pada panel yang muncul identitas sebagai berikut.
+
+    - Pada kotak isian name, masukkan : LingkarClip.
+    - Pada option type pilih pada Movie clip.
+    - Klik atau contreng pada Export for ActionScript.
+    - Pada kotak isian class, masukkan : LingkarClip.
+    - Akhiri dengan menekan tombol OK.
+
+2. Selanjutnya Movie clip yang ada di stage harus dihapus.
+
+3. Klik pada frame 1 diikuti dengan menekan tombol F9 untuk mengaktifkan panel Action dan diisi dengan kode script sebagai berikut.
+```as3
+var LingkarClip:LingkarClip=new LingkarClip();
+
+//perintah membuat variable bernama LingkarClip dan diisi movie clip yang berlinkage LingkarClip
+
+addChild(LingkarClip);
+
+// perintah memasukkan LingkarClip ke dalam stage.
+```
+4. Guna melakukan tes (ujicoba) dilakukan dengan menekan tombol kombinasi Ctrl+Enter. Hasilnya adalah terlihat sebuah lingkaran di stage (sebelumnya tidak ada).
+
+5. Guna mengubah posisi Movie clip dapat diatur pada komposisi koordinat sumbu x dan y. Langkahnya adalah klik pada frame 1 diikuti dengan menekan tombol F9 untuk mengaktifkan panel Action dan menambahkan script sebagai berikut.
+```as3
+var LingkarClip:LingkarClip=new LingkarClip();
+
+//prosedur mengatur posisi LingkarClip
+    LingkarClip.x=250;
+    LingkarClip.y=250;
+    addChild(LingkarClip);
+```
+Setelah menekan tombol kombinasi Ctrl+Enter, maka posisi lingkaran tepat berada di tengah-tengah stage.
+
+6. Berikutnya adalah prosedur menghapus Movie clip dengan cara klik pada frame 1 diikuti dengan menekan tombol F9 untuk mengaktifkan panel Action dan menambahkan script sebagai berikut.
+```as3
+var LingkarClip:LingkarClip=new LingkarClip();
+
+LingkarClip.x=250;
+
+LingkarClip.y=250;
+
+addChild(LingkarClip);
+
+removeChild(LingkarClip); //menghapus LingkarClip
+```
+Setelah menekan tombol kombinasi Ctrl+Enter, maka lingkaran akan terhapus dengan sendirinya.
