@@ -10,6 +10,14 @@
     - [Comments (komentar)](#comments-komentar)
     - [Literals](#literals)
     - [Keywords dan Reserved Words](#keywords-dan-reserved-words)
+  - [Break and Continue](#break-and-continue)
+  - [Conditional if](#conditional-if)
+    - [Kondisi if](#kondisi-if)
+    - [Kondisi if .. else](#kondisi-if--else)
+    - [Kondisi if .. else if](#kondisi-if--else-if)
+  - [Conditional switch](#conditional-switch)
+  - [Array](#array)
+- [Pengolahan Multimedia Interaktif Menggunakan Kode Program](#pengolahan-multimedia-interaktif-menggunakan-kode-program)
   
 
 Guna membentuk sebuah interaktivitas dalam sebuah multimedia interaktif diperlukan berbagai tahap pemrograman. Pemrograman identik dengan suatu kegiatan menuliskan kumpulan urutan perintah ke komputer untuk mengerjakan sesuatu, di mana instruksi tersebut menggunakan bahasa yang dimengerti oleh komputer atau dikenal dengan Bahasa pemrograman. Dalam hal ini, programming termasuk jenis keahlian yang akhir-akhir ini banyak dipelajari orang, seiring berkembangnya teknologi dan meningkatnya permintaan masyarakat akan developer, belajar coding bisa menjadi aset berharga. Salah satunya adalah **ActionScript** sebagai Bahasa pemrograman yang dipakai oleh software Flash untuk mengendalikan object-object ataupun movie.
@@ -112,3 +120,148 @@ Secara mendasar, keywords dan reserved words termasuk jenis kata kunci dan kata 
 | -- | ------------- | ---------- |
 | 1  | Lexical       | Kata-kata yang sudah digunakan dalam rangkaian kode. Misalnya as if return break super case |
 | 2  | Syntactic     | Kata-kata yang dapat digunakan sebagai identifier, memiliki fungsi tertentu jika digunakan dalam konteks yang benar. Misalnya each include override get dynamic static |
+
+### Break and Continue
+Break dan continue digunakan untuk menginterupsi sebuah operasi berulang (loops). Break digunakan untuk menghentikan operasi berulang ketika suatu kondisi dalam blok terpenuhi.
+
+1. Penerapan break dapat dilihat pada kode program berikut
+```as3
+for (var i:int=1; i<20; i+=3){
+    if(i==10){
+        break;
+        }
+
+    trace(i);
+
+}
+
+//output 1 4 7
+```
+
+Berdasarkan contoh di atas, operasi for seharusnya menaikkan nilai variabel i sebanyak 3 poin untuk setiap langkah, sehingga menghasilkan angka 1,4,7,10,13,16 dan 19. Tetapi karena adanya kondisi (i==10) terpenuhi, hasilnya adalah kode break dijalankan dan operasi berulang dihentikan sehingga menghasilkan angka 1, 4, dan 7.
+
+2. Penerapan continue dapat dilihat pada kode program berikut
+
+```as3
+for(var i:=1; i<20; i+=3){
+     if(i==10){
+        continue; 
+        }
+    trace(i);
+}
+
+//output 1 4 7 13 16 19
+```
+Pada dasarnya kode continue akan melewatkan satu langkah jika kondisi terpenuhi, sehingga pada kode di atas dengan kondisi (i == 10) terpenuhi maka perulangan hanya dilewati satu langkah, sehingga angka 10 tidak muncul.
+
+### Conditional if
+Logika dasar di sebagian besar bahasa pemrograman menggunakan kondisi if. Dengan kode if sebuah kondisi dapat diketahui kebenarannya dan blok kode akan dieksekusi berdasarkan kondisi tersebut.
+
+#### Kondisi if
+Perhatikan kode program sebagai berikut.
+```as3
+function bilGanjil(angka:int):void{
+    if (angka%2 == 1){
+        trace(angka+” adalah bilangan ganjil”);
+    }
+}
+
+bilGanjil(7);
+```
+Jika pada baris 2 terdapat sebuah kondisi dengan sebuah nilai mengalami operasi modulus (%) dengan angka 2. Jika angka yang dimaksud dibagi dengan bilangan 2 dan ternyata menyisakan bilangan 1 (disimbolkan dengan operator ==), maka angka tersebut dipastikan sebagai bilangan ganjil.
+
+#### Kondisi if .. else
+Perhatikan kode program sebagai berikut.
+
+```as3
+function bilGanjil(angka:int):void{
+    if(angka%2 == 1){
+        trace(angka+”adalah bilangan ganjil”);
+    } else {
+        trace(angka+” adalah bilangan genap”);
+    }
+}
+
+bilGanjil(7); // 7 adalah bilangan ganjil
+
+bilGenap(4); // 4 adalah bilangan genap
+```
+Pada kondisi tersebut di atas, jika kondisi bernilai salah maka kode pada blok else akan dijalankan. Secara umum, kondisi if .. else dapat dilakukan beberapa kali dengan kondisi yang berbeda-beda.
+
+#### Kondisi if .. else if
+Perhatikan kode program sebagai berikut.
+```as3
+function cekNil(nilai:int):void{
+    if(nilai<6){
+        trace(“Anda tidak lulus”);
+    } else if (nilai<8) {
+        trace(“Cukup bagus, Anda mendapatkan nilai C”);
+    } else if (nilai<10) {
+        trace(“Bagus, Anda mendapatkan nilai B”);
+    } else {
+        trace(“Nilai Sempurna”);
+    }
+
+}
+
+cekNil(9); // Nilai sempurna
+```
+
+Berdasarkan kondisi di atas maka prosedur pengecekan logika diawali dari kondisi teratas dan jika terpenuhi akan dilanjutkan ke logika berikutnya. Dengan demikian ketika kode cekNil(9); dijalankan maka kondisi (nilai < 6) tidak terpenuhi, kondisi (nilai < 8) tidak terpenuhi, sedangkan kondisi (nilai < 10) terpenuhi. Oleh karena itu ditampilkan hasil kondisi terakhir yang terpenuhi yaitu (nilai < 10).
+
+### Conditional switch
+Kondisi switch digunakan ketika terdapat beberapa kondisi yang berbeda-beda. Pada kode tersebut beberapa kondisi telah ditentukan, dan ketika kondisi yang tersebut terpenuhi di salah satu kode case maka kode dijalankan sampai terjadinya eksekusi kode break. Jika tidak ada kondisi yang terpenuhi maka blok kode default yang akan dijalankan. Perhatikan contoh kode berikut ini.
+```as3
+function cekNil(Nil:String):void{
+    Switch(Nil){
+        case “A”: {
+            trace(“Nilai Anda : Sangat baik”);
+            break;
+        }
+        case”B”: {
+            trace(“Nilai Anda : Baik “);
+            break;
+        }
+        case “C”: {
+            trace(“Nilai Anda : Cukup baik “);
+            break;
+        }
+        case “D”: {
+            trace(“Nilai Anda : Kurang”);
+            break;
+        }
+        case “E”: {
+            trace(“Anda gagal “);
+            break;
+        }
+        default: {
+            trace(“input data salah”);
+            break;
+        }
+    }
+}
+
+cekNil(“C”);
+```
+
+### Array
+Array sebagai sebuah struktur data yang bisa digunakan untuk menyimpan beberapa variabel dengan nama yang sama. Misalnya data nama siswa kelas 1, data soal kuis, data nama hari, data nama bulan, dan sebagainya. Perhatikan penerapan berikut.
+
+```as3
+var nmHari:Array = [“Senin”, “Selasa”, “Rabu”, “Kamis”,”Jumat”, “Sabtu”, “Minggu”];
+
+trace(nmHari[1]); //Selasa
+
+trace(nmHari[4]); //Jumat
+```
+
+Berdasarkan kode program di atas, terlihat bahwa variabel nmHari yang memiliki nilai yaitu “Senin” sampai “Minggu” dideklarasikan dengan tipe array. Untuk menggunakan data yang berada di dalam Array, dapat digunakan nama variabel diikuti tanda [nomor_data]. Misalnya variabel nmHari[0] yang ternyata bernilai “Senin”, karena berada di urutan pertama (nomor data dimulai dari angka 0), dan seterusnya.
+
+## Pengolahan Multimedia Interaktif Menggunakan Kode Program
+Keunggulan multimedia di dalam interaktivitas adalah media tersebut mampu memaksa user untuk berinteraksi dengan materi secara fisik dan mental. Interaktivitas sebagai derajat partisipan dalam proses komunikasi memiliki kontrol dan kemampuan bertukar peran dalam mutual discourse. Dengan menggunakan konsep tersebut bisa dibedakan tiga level interaktivitas yaitu:
+
+1. Percakapan tatap muka dengan derajat interaktivitas tertinggi, 
+2. Interaktivitas antara orang dengan medium, atau orang dengan sistem di mana isi dapat dimanipulasikan, serta 
+3. Interaktivitas yang diperoleh dalam sistem informasi tanpa adanya intervensi dari user untuk mengubah konten. 
+
+Oleh sebab itu, guna memahami proses pengembangan interaktifitas dalam media yang akan dibuat, perlu memahami terlebih dahulu dasar-dasar dalam memanipulasi objek.
