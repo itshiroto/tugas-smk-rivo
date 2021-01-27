@@ -1,3 +1,4 @@
+# Tugas Pengetahuan Coding Multimedia (KD 3.8 dan 3.9) - Rivo Juicer Wowor - XII MM
 ## Langkah
 1. Buka Flash lalu buatlah dokumen ActionScript 3.0 baru.
 2. Buatlah sebuah objek Movie Clip dengan cara klik Insert -> New Symbol.
