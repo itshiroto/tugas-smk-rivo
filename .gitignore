@@ -1,7 +1,8 @@
 old/
-images/
 Thumbs.db
 Absensi.md
+*.docx
+*.pdf
 
 # LaTeX temporary files
 *.aux
