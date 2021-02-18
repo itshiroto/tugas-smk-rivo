@@ -19,3 +19,5 @@
 7. https://rms46.vlsm.org/0/00-11.html (First WWW sites by indon)
 8. https://id.wikibooks.org/wiki/Sejarah_Internet_Indonesia/Awal_Internet_Indonesia
 9. https://id.wikibooks.org/wiki/Sejarah_Internet_Indonesia/WARNET (Sejarah Warnet)
+10. https://lms.onnocenter.or.id/wiki/index.php/1994,_ITB_tersambung_ke_Internet_24_jam (A long version of Sejarah Internet Indonesia on wikibooks, by Onno W Purbo)
+11. https://lms.onnocenter.or.id/pustaka/WiFi/OWP-20150127-the-struggle-in-indonesia-computer-network-in-the-90.pdf (English PDF Version of number 10)
