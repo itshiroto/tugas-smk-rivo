@@ -1,0 +1,71 @@
+Title:
+    Video Essay
+    **Awal Mula Internet di Indonesia**
+Credit: Kelompok 8
+Credit: Written by
+Author: Rivo J. Wowor 
+    Rindiani D. Theppy
+Draft date: 
+    Revision 1.5
+    22/02/2021
+
+>**ACT 1**<
+>**Internet di Indonesia saat ini**<
+
+Internet sekarang sudah menjadi salah satu kebutuhan wajib bagi masyarakat Indonesia, dan fakta ini diperkuat setelah Indonesia mengalami musim pandemi COVID-19. Berdasarkan data dari Hootsouite (datareportal.com), Indonesia memiliki jumlah pengguna internet sebanyak 274.9 juta di bulan Januari 2021. Tapi pernahkah anda berpikir bahwa awal mula Internet di Indonesia dimulai dari komunitas-komunitas radio kecil di Indonesia?
+
+===
+
+>**ACT 2**<
+>**Awal mula jaringan Internet di Indonesia (1980s)**<
+
+Jaringan Komunikasi pertama yang ada di indonesia merupakan jaringan Buletin Board System yang dibawakan oleh Jim Filgo dan C C Yan. Keduanya mengenalkan teknologi BBS kepada komunitas komputer di Jakarta dan sekitarnya.
+
+BBS merupakan jaringan e-mail store and forward yang mengaitkan banyak ‘server’ BBS amatir di seluruh dunia agar e-mail dapat dikirim dan terima dengan lancar. BBS hanya menyediakan data dalam bentuk gambar-gambar atau informasi tertulis.
+
+Teknologi BBS sendiri masih terlihat primitif jika dibandingkan dengan internet yang kita kenal sekarang, karena BBS diakses menggunakan Terminal ketimbang menggunakan browser. 
+
+Selain itu, sambungan antar BBS dilakukan melalui saluran telepon, dan karenanya pengguna BBS umumnya merupakan kaum ‘elit’ / ekonomi menengah-atas karena sambungan melalui saluran telepon pada saat itu terhitung mahal. 
+
+Menjelang akhir tahun 1980-an, tercatat beberapa komunitas BBS, seperti Aditya (Ron Prayitno), BEMONET (BErita MOdem NETwork), JCS (Jakarta Computer Society -- Jim Filgo), dan lain-lain. Untuk para kalangan akademis, pernah ada UNInet dan Cossy. UNINET merupakan sebuah jaringan berbasis UUCP yang konon pernah menghubungkan Dikti, ITS, ITB, UI, UGM, UnHas, dan UT. 
+
+Selain BBS, Jaringan Komputer yang pertama kali muncul di Indonesia adalah Mailing List atau biasa disebut sebagai Milis, tetapi yang menggunakan milis pertama kali di Indonesia masih menjadi tanda tanya besar. Oleh sebab itu, belum ada yang dapat menjawab pertanyaan seperti "Mailing list apa saja yang muncul pada awal masa Internet di Indonesia?" sebab mailing list sudah ada sebelum Internet masuk ke Indonesia.
+
+Tiga hal dapat dikatakan menandai dimulainya generasi kedua dari penggunaan milis di Indonesia. Hal pertama ialah ketersediaan perangkat keras (modem dan PC) yang memadai sejak pertengahan tahun 1980-an. Kedua, kegiatan komunitas di Indonesia yang memulai bereksperimen dalam penggunaan perangkat keras di atas. Dan hal ketiga, komunitas Indonesia di luar negeri (terutama pelajar) mulai menggunakan email untuk berkomunikasi. 
+
+Inspirasi tulisan-tulisan awal jaringan internet sendiri mulai muncul di Amatir Radio Club ITB pada tahun 1986. Mereka mulai bereksperimen dengan menggunakan Protokol AX.25 untuk komunikasi data packet radio menggunakan TCP/IP. Inilah pertama kali TCP/IP digunakan pada jaringan WAN di Indonesia. Dan banyak institusi dan universitas di Indonesia yang mulai menggunakan TCP/IP kemudian membentuk organisasi yang dinamakan sebagai Paguyuban Network.
+
+===
+
+>**ISP-ISP Pertama di Indonesia dan Koneksi dengan negara lain**<
+
+ISP komersil yang pertama kali muncul di Indonesia ialah IPTEK-NET yang beroperasi penuh menjelang awal 1994. Lalu pada sekitar tahun 1994 mulai beroperasi ISP IndoNet. IndoNet merupakan ISP komersial pertama Indonesia. Sambungan awal ke Internet dilakukan menggunakan dial-up oleh IndoNet. Akses awal di IndoNet mula-mula memakai mode teks dengan shell account, browser lynx, dan *mail client* pine serta chatting dengan conference pada server AIX.
+
+Pada tahun 1994 jugalah, pertama kali jaringan Indonesia terkoneksi di Amerika Serikat. Onno W Purbo menuliskan ini pada salah satu artikel di website wikinya, 
+
+ONNO W. PURBO
+(V.O by Rivo)
+Sambungan IP pertama Indonesia dari IPTEK-NET berupa leased line 64Kbps dan membutuhkan waktu ping sekitar 750ms dari Amerika Serikat.
+
+Selain hubungan internasional melalui IPTEK-NET, sebuah tim di Lab. Radar EL-ITB sedang melakukan uji-coba menggunakan satelit geostasioner ETS-V untuk hubungan ITB ke Communication Research Lab, Jepang. Jepang telah bersedia untuk memberikan alokasi waktu tujuh jam per bulan pada kecepatan 38.4Kbps untuk keperluan eksperimen jaringan komputer antara ITB dan Jepang menggunakan satelit geostasioner ETS-V.
+
+===
+
+>**Website-website pertama di Indonesia**<
+
+Berdasarkan sumber-sumber yang saya baca dan pelajari, FUSILKOM UI merupakan salah satu website WWW pertama yang ada Indonesia, meskipun secara teknis tidak terhubung ke jaringan Internet secara permanen. Rahmat M. Samik-Ibrahim; salah satu penggagas internet di Indonesia menuliskan ini dalam websitenya, 
+
+R.M.S. IBRAHIM
+(V.O by Rivo)
+Walau pun mulai dikembangkan sejak tahun 1989, WWW bahkan tidak begitu dikenal secara internasional hingga tahun 1993-an. Pada tahun 1993 pula, di Indonesia belum ada link langsung ke internet kecuali eksperimen X.25 IPTEKnet ke Aachen, Jerman. Sedangkan di FUSILKOM-UI, komunikasi menggunakan UUCP ke Dialix, Australia dan UUNET, USA. Lalu kemudian, Klien WWW NCSA Mosaic diperkenalkan ke FUSILKOM UI menjelang akhir tahun 1993 oleh Dr. Bobby A.A. Nazief. Oleh sebab maka dari itu, di FUSILKOM UI sudah ada WWW sebelum ada link permanen ke Internet.
+
+Kemudian, beberapa situs dengan tema Indonesia mulai bermunculan pada awal tahun 1994-an. Salah satu narasumber yang saat itu berada di Australia, berhasil menghimpun sebuah direktori yang terdiri dari belasan situs. Situs-situs tersebut nyaris tidak berbekas, mengingat menggunakan URL milik sekolah masing-masing. Artinya, situs tersebut lenyap begitu mereka tamat, sebab pada saat itu penggunaan virtual hosting belum lazim. 
+
+Salah satu situs tertua di Indonesia ialah *www.sdn.or.id* serta *www.indo.net.id*, keduanya sudah tidak bisa diakses kecuali melalui layanan Wayback Machine milik Archive.org. Salah satu halaman yang menarik pada website ini ialah *asik.indo.net.id*. Dari data Wayback Machine yang diambil pada tanggal 14 Juni 1997, kita dapat melihat bagaimana kondisi pengguna Internet Indonesia pada saat itu. Masih terdapat page mengenai Laser dan Video CD, Chatroom yang masih menggunakan X-Chat dan IRC, dan juga Guestbook yang isinya sangat menarik jika dilihat oleh pengguna internet Indonesia sekarang. 
+
+
+===
+>**ACT 3**<
+>**Conclusion**<
+
+Sejak akhir 1998, Perkembangan Internet di Indonesia berkembang sangat cepat, tahun 1998 sendiri Indonesia memiliki pelanggan internet sebanyak 134.000 pelanggan. Angka ini naik pada tahun 2001 menjadi 581.000 pelanggan. Selain itu, muncul inovasi seperti WARNET dan RT-RW NET yang dikembangkan oleh komunitas-komunitas Internet pertama di Indonesia. 
