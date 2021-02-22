@@ -2,7 +2,8 @@
 
 ## Penjelasan Internet secara singkat
 
-**TODO: INTRO**
+Internet sekarang sudah menjadi salah satu kebutuhan wajib bagi masyarakat Indonesia, dan fakta ini diperkuat setelah Indonesia mengalami musim pandemi COVID-19. Berdasarkan data dari Hootsouite (datareportal.com), Indonesia memiliki jumlah pengguna internet sebanyak 274.9 juta di bulan Januari 2021.
+
 ## Awal mula tercipta jaringan Internet di Indonesia (1980s - 2000s)
 
 Jaringan pertama yang ada di indonesia merupakan jaringan Buletin Board System yang dibawakan oleh Jim Filgo dan C C Yan. Keduanya mengenalkan teknologi BBS kepada komunitas komputer di Jakarta dan sekitarnya. BBS merupakan jaringan e-mail *store and forward* yang mengaitkan banyak ‘server’ BBS amatir di seluruh dunia agar e-mail dapat dikirim dan terima dengan lancar. BBS hanya menyediakan data dalam bentuk gambar-gambar atau informasi tertulis. Teknologi BBS sendiri masih terlihat primitif jika dibandingkan dengan internet yang kita kenal sekarang, karena BBS diakses menggunakan Terminal ketimbang menggunakan browser. Selain itu, sambungan antar BBS dilakukan melalui saluran telepon, dan karenanya pengguna BBS umumnya merupakan kaum ‘elit’ / ekonomi menengah-atas karena sambungan melalui saluran telepon pada saat itu terhitung mahal. Menjelang akhir tahun 1980-an, tercatat beberapa komunitas BBS, seperti Aditya (Ron Prayitno), BEMONET (BErita MOdem NETwork), JCS (Jakarta Computer Society -- Jim Filgo), dan lain-lain. Untuk para kalangan akademis, pernah ada UNInet dan Cossy. UNINET merupakan sebuah jaringan berbasis UUCP yang konon pernah menghubungkan Dikti, ITS, ITB, UI, UGM, UnHas, dan UT. 
