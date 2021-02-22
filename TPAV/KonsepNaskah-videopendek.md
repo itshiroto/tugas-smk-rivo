@@ -2,7 +2,9 @@
 
 ## Penjelasan Internet secara singkat
 
-Internet sekarang sudah menjadi salah satu kebutuhan wajib bagi masyarakat Indonesia, dan fakta ini diperkuat setelah Indonesia mengalami musim pandemi COVID-19. Berdasarkan data dari Hootsouite (datareportal.com), Indonesia memiliki jumlah pengguna internet sebanyak 274.9 juta di bulan Januari 2021.
+Sebagian besar orang rasanya sudah tidak asing lagi dengan internet. Setiap hari kita berselancar di  internet untuk mencari berbagai macam informasi, menemukan hiburan dan bahkan untuk menunjang         kegiatan sehari-hari. Wajar saja jika Internet menjadi salah satu teknologi yang dinilai paling       penting dalam kehidupan masyarakat pada saat ini.
+
+Menurut Bisnis.com, jumlah pengguna internet di Indonesia hingga kuartal II/2020 mencapai 196,7 juta  atau 73,7 persen dari populasi Indonesia. Jumlah ini bertambah sekitar 25,5 juta pengguna             dibandingkan tahun lalu. Ini menunjukkan pertambahan pengguna internet yang signifikan di Indonesia.  Tapi pernahkah anda berpikir bahwa awal mula Internet di Indonesia dimulai dari komunitas-komunitas   radio kecil di Indonesia?
 
 ## Awal mula tercipta jaringan Internet di Indonesia (1980s - 2000s)
 
@@ -29,7 +31,7 @@ Salah satu situs tertua di Indonesia ialah www.sdn.or.id serta www.indo.net.id, 
 ---
 Sejak akhir 1998, Perkembangan Internet di Indonesia berkembang sangat cepat, tahun 1998 sendiri Indonesia memiliki pelanggan internet sebanyak 134.000 pelanggan. Angka ini naik pada tahun 2001 menjadi 581.000 pelanggan. Selain itu, muncul inovasi seperti WARNET dan RT-RW NET yang dikembangkan oleh komunitas-komunitas Internet pertama di Indonesia. 
 
-**TODO: OUTRO**
+Internet sekarang sudah menjadi alat yang vital bagi mayoritas masyarakat Indonesia, yang awalnya hanyalah sebuah alat berkomunikasi sekarang sudah bisa menjadi penghibur atau bahkan tempat mencari rejeki masyarakat. Tentunya Internet mengalami perubahan yang sangat drastis ketimbang 30 tahun yang lalu. Ketika salah satu sumber ditanyakan apakah akan terbayang internet akan mengalami perubahan yang drastis seperti ini, Ia menjawab "Ya, sejak 1994 telah terbayang bahwa Internet bukan lagi merupakan sesuatu yang menyenangkan."
 
 ---
 # Sumber 
