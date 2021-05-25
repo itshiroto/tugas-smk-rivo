@@ -1,0 +1,27 @@
+# INTRO
+Halo teman-teman semua! Selamat datang di Podcast Kiracast, kali ini ditemani oleh saya, Rivo. 
+
+Seperti yang kita tahu, Pandemi COVID-19 telah berlangsung selama setahun lebih dan tentunya sangat merubah cara hidup dan juga beraktivitas kita secara drastis. Tapi hal ini tidak menghentikan banyak orang untuk tetap belajar dan berinovasi, khususnya di dunia Fisika. Dan dalam dunia fisika ini, ada beberapa aspek yang berubah cukup drastis ketika pandemi mulai melanda setahun yang lalu.
+
+# Education (2:30 mins)
+Salah satu aspek yang berubah di dunia fisika ialah Pendidikan. Jauh sebelum pandemi (ketika internet belum ada), untuk mempelajari pelajaran Fisika, kita perlu meminjam atau membeli buku, ataupun mengikuti pembelajaran atau les dari guru-guru fisika. Lalu kemudian, Internet mulai dikembangkan. Bukan hanya fisika saja, tapi dunia pendidikan juga ikut berevolusi dengan teknologi ini. Tapi semua masih didominasi oleh  pembelajaran secara offline. Dan pada tahun lalu, pandemi melanda dunia. Pembelajaran fisika maupun pelajaran lain yang awalnya didominasi oleh pembelajaran offline, sekarang banting setir ke pembelajaran online atau daring. Memang dari dulu, beberapa teknologi untuk belajar secara online sudah dikembangkan, hanya saja belum diadopsi secara merata. Dan dengan pandemi, seolah-olah semuanya dipaksa untuk mengadopsi cara belajar baru ini.
+
+Menurut saya ini hal yang bagus, karena banyak resource pembelajaran di Internet yang kita bisa dapatkan secara gratis. Contohnya? Khan Academy. Salah satu website pembelajaran daring gratis sejak 2006. Di website ini, kita bisa dapatkan berbagai macam video pembelajaran di banyak mata pelajaran secara gratis. Selain itu, adapula startup di Indonesia yang menurut saya menjadi pelopor pembelajaran daring di Indonesia. Yaitu Zenius. Tapi sedikit berbeda dengan Khan Academy, Zenius lebih dominan menerapkan cara bisnis Freemium, yang berarti banyak materi yang diakses secara gratis, hanya saja untuk mengakses fitur lain, kita perlu membeli paket belajarnya. Secara pribadi, saya banyak menggunakan kedua website ini untuk belajar fisika maupun mata pelajaran lainnya seperti matematika selama pandemi ini. 
+
+# Innovation
+Selain pendidikan, salah satu aspek yang berubah juga ialah Inovasi. Kondisi pandemi seperti ini tidak menghentikan banyak ilmuwan di dunia untuk melanjutkan riset dan menemukan banyak inovasi baru selama mereka di rumah. Ada beberapa contoh riset yang saya pribadi temukan menarik selama masa pandemi ini.
+
+Saya merupakan seorang siswa SMA yang sangat menyukai komputer dan Machine Learning, dan tentunya melihat riset-riset mengenai Simulasi Fisika dan juga Kecerdasan Buatan membuat saya senang. Beberapa riset yang saya temukan menarik dalam hal simulasi fisika ialah Rigid Body Simulation. Riset ini saya temukan ketika menonton salah satu video dari TwoMinutePapers di YouTube. Simulasi Rigid Body memang sangatlah menantang dalam dunia Computer Graphics. Dan meskipun menantang, Rigid Body merupakan salah satu komponen penting dalam 3D Modelling maupun Game Development, jadi penelitian dalam simulasi Rigid Body yang sangat efisien pun dibutuhkan. Dan dalam paper yang dibuat tahun 2020 ini membuat simulasi rigid body ini menjadi sangat efisien dan dapat dijalankan secara _real-time_ serta tetap mengikuti Hukum Fisika dunia nyata. 
+
+Selain Rigid Body, Api juga merupakan salah satu hal yang menantang untuk disimulasikan. Dan pada pertengahan tahun 2020 lalu, seorang Ilmuwan dari Politeknk Virginia Tech di Amerika Serikat telah membuat paper mengenai Simulasi Api menggunakan Kecerdasaan Buatan. Penggunaan Kecerdasan Buatan membuat hasil simulasi api ini menjadi lebih efisien dan lebih detail ketimbang hasil riset sebelumnya. Hasil simulasi ini dapat digunakan bagi para Pemadam Kebakaran untuk bisa memahami berbagai kondisi bahaya api serta mencari solusi yang lebih efisien lagi dalam memadamkan api.
+
+Ada satu riset lagi yang saya temukan menarik dan ini bukan tentang simulasi komputer lagi. Yaitu penemuan struktur protein dari COVID-19. Temuan ini ditemukan oleh tim riset dari Universitas Shanghai Tech di Tiongkok yang diprakarsai oleh Zihe Rao dan Haitao Yang. Penemuan ini yang menjadi landasan bagi para ilmuwan lainnya untuk menemukan vaksin bagi COVID-19. Yang membuat saya terkejut ialah penemuan ini ditemukan hanya dalam waktu sebulan setelah Tiongkok mengumumkan kasus pertama COVID-19 nya. Alexander Wlodawer, salah satu ilmuwan dari National Cancer Institute Amerika Serikat mengatakan bahwa "Penemuan ini jika dilakukan satu dekade yang lalu, memerlukan waktu setahun untuk menyelesaikannya".
+
+Masih banyak lagi riset serta inovasi dalam dunia fisika yang ditemukan pada kondisi pandemi. Dan hal ini membuktikan bahwa dalam masa pandemi seperti ini, para ilmuwan masih bisa berinovasi di dunia fisika.
+
+# Conclusion
+Memang, saya bukanlah seseorang yang kompeten untuk membahas hal-hal ini. Tapi ketika melihat video dan juga membaca sedikit isi paper tentang riset-riset ini, saya menjadi semakin termotivasi untuk terus belajar dan bisa menemukan hal-hal menarik seperti riset-riset yang saya sebutkan tadi.
+
+Dan tentunya, belajar Fisika maupun pelajaran lainnya sekarang menjadi semakin mudah dengan hadirnya berbagai layanan pembelajaran seperti Khan Academy dan Zenius ini. Sehingga pendidikan fisika dapat dijangkau lebih luas lagi dan banyak lahir ilmuwan-ilmuwan muda yang berbakat di Indonesia maupun di Dunia yang dapat mengubah kehidupan manusia yang akan datang.
+
+Sekian dari saya, terima kasih.
