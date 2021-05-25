@@ -24,4 +24,4 @@ Selain itu, saya juga terkendala dalam penempatan logo SMKN 1 Berau dan logo Jur
 Dan berikut adalah timelapse proses pengerjaan posternya, serta hasil akhir posternya.
 
 ## CLOSING (Facecam)
-Terima kasih telah menonton dan menilai hasil karya saya ini, saya berharap poster ini tidak berguna bagi kepentingan UKK saja, tapi bisa menjadi salah satu media untuk menurunkan angka pengguna narkoba di kalangan pelajar.
+Terima kasih telah menonton dan menilai hasil karya saya ini, saya berharap poster ini tidak hanya berguna bagi kepentingan UKK saja, tapi bisa menjadi salah satu media untuk menurunkan angka pengguna narkoba di kalangan pelajar.
